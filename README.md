@@ -1,2 +1,2 @@
 # chaotichubcrackedv1
-chaotichubcracked
+hi termux <3
